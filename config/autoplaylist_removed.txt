@@ -1,0 +1,6 @@
+# Entry removed Wed Aug 22 20:44:15 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error EOF occurred in violation of protocol (_ssl.c:833)> (caused by URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:833)'),))
+https://www.youtube.com/watch?v=71AMtQLi-74
+
+################################
+
